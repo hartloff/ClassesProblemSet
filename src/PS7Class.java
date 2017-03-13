@@ -20,7 +20,7 @@ public class PS7Class{
     // Q3: Write a constructor that take 3 ints as input and assigns these ints to x, y, and z in that order
 
 
-    // Q4: Write getter methods for each instance variable named getX, getY, and getZ that take no paramters and return
+    // Q4: Write getter methods for each instance variable named getX, getY, and getZ that take no parameters and return
     //     ints
 
 
@@ -28,18 +28,18 @@ public class PS7Class{
     //     and returns void
 
 
-    // Q6: Write a method that takes no parameters and returns the sum of x, y, and z as an int
+    // Q6: Write a method named add that takes no parameters and returns the sum of x, y, and z as an int
 
 
-    // Q7: Write a method that takes no parameters and returns the multiplication of x, y, and z as an int
+    // Q7: Write a method named multiply that takes no parameters and returns the multiplication of x, y, and z as an int
 
 
-    // Q8: Write a method named magnitude that takes no paramters and returns a double representing the magnitude of
+    // Q8: Write a method named magnitude that takes no parameters and returns a double representing the magnitude of
     //     PS7Class if x, y, and z are interpreted as a 3d vector. The magnitude of a vector is the square root of the
     //     sum of the squares of x, y, and z (ie. the distance from (0, 0, 0)).
 
 
-    // Q9: Write a method named distance that takes an instance of the PS7Class as a paramter and returns a double
+    // Q9: Write a method named distance that takes an instance of the PS7Class as a parameter and returns a double
     //     representing the distance between this instance and the given instance if x, y, and z are interpreted as a
     //     3d vector. The distance is the square root of the sum of the squares of the differences in x, y, and z.
 
